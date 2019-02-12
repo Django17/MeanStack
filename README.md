@@ -1,2 +1,2 @@
 # MeanStack
-Broadway JS Meanstack
+Broadway JS Meanstack git repository
